@@ -4,11 +4,11 @@ Narrative Flow Co-Writer is an AI-assisted storytelling application built using 
 ## Objective
 To explore lightweight Large Language Model (LLM) integration for human-AI collaborative storytelling.
 ## Architecture
-User Input → Prompt Processing → TinyLlama Model → Generated Narrative → Streamlit UI
+User Input → Prompt Processing → Llama3 Model → Generated Narrative → Streamlit UI
 ## TechnologiesUsed
 - Python
 - - Streamlit
-- - TinyLlama (Local LLM)
+- - Llama 3 
 - - Prompt Engineering
 ## Features
 -Real-time story generation
