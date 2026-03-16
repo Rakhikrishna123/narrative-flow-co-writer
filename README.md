@@ -1,6 +1,6 @@
 # narrative-flow-co-writer
 ## Overview
-Narrative Flow Co-Writer is an AI-assisted storytelling application built using Streamlit and TinyLlama.  It enables interactive story generation based on user prompts.
+Narrative Flow Co-Writer is an AI-assisted storytelling application built using Streamlit and Llama3.  It enables interactive story generation based on user prompts.
 ## Objective
 To explore lightweight Large Language Model (LLM) integration for human-AI collaborative storytelling.
 ## Architecture
