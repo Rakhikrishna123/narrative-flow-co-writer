@@ -21,6 +21,5 @@ This project investigates:
 - - Prompt-based narrative control
 - - Human-AI collaborative creativity
 ## Future Work
-- Compare TinyLlama with other LLMs
 -- Evaluate coherence using NLP metrics
 --- Deploy on cloud infrastructure
